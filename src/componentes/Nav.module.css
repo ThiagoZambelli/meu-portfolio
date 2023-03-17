@@ -1,0 +1,18 @@
+.header{
+    font-family: var(--fonte-destaque);    
+}
+.nav{
+    padding: 2rem 0;
+    background: var(--cor-1);
+    display: flex;
+    justify-content: space-around;
+}
+.link{
+    text-decoration: none;
+    font-size: 2rem;
+    color: var(--cor-4);
+    font-weight: bold;
+}
+.link-ativo{
+    text-decoration: underline;
+}

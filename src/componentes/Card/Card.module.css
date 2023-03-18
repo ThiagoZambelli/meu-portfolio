@@ -3,7 +3,8 @@
     min-width: 220px;
     perspective: 1000px;
     min-height: 300px;
-    padding: 1rem .5rem;           
+    padding: 1rem .5rem;
+    color: var(--cor-5);          
 }
 
 .cardFront,

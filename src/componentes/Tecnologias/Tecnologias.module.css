@@ -1,6 +1,19 @@
-.TecnologiasCards{
+.tecnologias{
+    box-sizing: border-box;
+    padding: 1rem;
+}
+.tecnologiasTitulo{
+    font-family: var(--fonte-destaque);
+    font-size: 2rem;
+    text-align: center;
+    margin: 1em 0;
+    text-decoration: underline;
+}
+.tecnologiasCards{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     row-gap: 1rem;
+    box-sizing: border-box;
+    padding-bottom: 1rem;
 }

@@ -4,9 +4,9 @@ import Card from '../Card';
 
 export default function Tecnologias() {
     return (
-        <div>
-            <h2>Tecnologias Conhecidas:</h2>
-            <div className={styles.TecnologiasCards}>
+        <div className={styles.tecnologias}>
+            <h2 className={styles.tecnologiasTitulo}>Tecnologias Conhecidas:</h2>
+            <div className={styles.tecnologiasCards}>
                 {tecnologias.map((e) => {
                     return (
                         <Card tec={e} key={e.id} />

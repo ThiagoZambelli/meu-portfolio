@@ -1,0 +1,11 @@
+.link{
+    text-decoration: none;
+    font-size: 2rem;
+    color: var(--cor-4);
+    font-weight: bold;
+}
+.linkAtivo{
+    transform: scale(1.05);
+    text-decoration: underline;
+    color: var(--cor-2);
+}

@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Nav from "./componentes";
+import Nav from "./componentes/Nav";
 import Inicio from "./paginas/Inicio";
 import SobreMim from "./paginas/SobreMim";
 

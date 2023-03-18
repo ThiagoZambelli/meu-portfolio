@@ -1,10 +1,10 @@
-import Card from "../../componentes/Card";
+import Tecnologias from "../../componentes/Tecnologias";
 
 export default function Inicio(){
     return (
         <div>
             Inicio ...
-            <Card />
+            <Tecnologias />
         </div>
     )
 }

@@ -18,3 +18,8 @@
 <hr />
 
 &nbsp;
+
+
+### Card Flip das `Tecnologias Conhecidas`
+
+<img width="100%" style="margin-top:-20px" src="public/assets/FlipTecnologias.gif">

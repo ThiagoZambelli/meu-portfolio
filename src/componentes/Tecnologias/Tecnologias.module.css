@@ -1,0 +1,6 @@
+.TecnologiasCards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 1rem;
+}

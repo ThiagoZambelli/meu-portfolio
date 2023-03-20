@@ -1,0 +1,23 @@
+.footer{
+    background-color: var(--cor-3);
+    display: flex;
+    margin: 0;
+    padding: .5rem 2rem;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+}
+.footer img{
+    width: 10%;
+}
+.footer a{
+    text-decoration: none;
+}
+.footer p{
+    color: var(--cor-1);
+    text-decoration: underline;
+    font-size: 1rem;
+}
+.footer strong{
+    color: var(--cor-2);
+}

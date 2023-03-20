@@ -1,0 +1,132 @@
+.banner{
+    background-color: var(--cor-4);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    padding: 0 1rem 2rem 1rem;    
+}
+.apresentacao{
+    padding: 1rem;
+    text-align: center;
+}
+.apresentacao > h1{
+    font-size: 3rem;
+    font-family: var(--fonte-destaque);
+    padding: .5em 0;
+    color: var(--cor-2);
+}
+
+.apresentacao > p{
+    font-size: 1.5rem;
+    font-family: var(--fonte-texto);
+    text-align: justify;
+}
+.texto > strong {
+    color: var(--cor-2);
+}
+
+
+
+
+.imagens {
+    position: relative;
+    height: 406px;
+}
+
+.imagens > .minhaFoto {
+    position: absolute;
+    right: 15vw;
+    bottom: 5vw;
+    width: 15vw;    
+    border-radius: 15px;
+}
+
+.imagens > .fundo{
+    position: absolute;
+    right: 2vw;
+    bottom: 0;
+    width: 25vw;
+}
+
+@media (max-width: 1050px) {    
+    .apresentacao > h1{
+        font-size: 2.5rem;     
+    }
+    
+    .apresentacao > p{
+        font-size: 1.5rem;
+        
+    }
+    .imagens > .minhaFoto {
+       
+        bottom: 30%;
+        
+    }
+    
+    .imagens > .fundo{        
+        bottom: 20%;
+    }
+}
+@media (max-width: 720px) {    
+    .apresentacao > h1{
+        font-size: 1.5rem;
+        font-weight: bold;    
+    }
+    
+    .apresentacao > p{
+        font-size: 1rem;
+        
+    }
+    .imagens > .minhaFoto {
+        position: absolute;
+        right: 20vw;
+        bottom: 10vw;
+        width: 25vw;    
+        border-radius: 15px;
+    }
+    
+    .imagens > .fundo{
+        position: absolute;
+        right: 2vw;
+        bottom: 5vh;
+        width: 35vw;
+    }
+
+}
+@media (max-width: 500px) {    
+    .banner {
+        padding: 2rem 1rem;
+        display: block;
+    }
+    .imagens{
+        margin: 0;
+        padding: 0;
+        height: 300px;
+        width: 100%;
+    }
+    .imagens > .minhaFoto, .imagens > .fundo {
+        left: 0;
+        right: 0;
+        margin: 0 0;
+        
+    }
+
+    .imagens > .minhaFoto {
+        width: 150px;
+        transform: translate(5rem, 0px);
+    }
+
+    .imagens > .fundo {
+        width: 240px;
+        transform: translate(-1.5rem, 0px);
+        left: 25vw;
+    }
+
+}
+
+@media (max-width: 400px) {    
+    .imagens > .fundo {       
+        left: 35vw;
+    }
+
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nome":"Graduação em Ciencia da Computação",
+        "nivel":"Superior",
+        "loca":"LaSalle",
+        "tempo":"em andamento"
+    },
+    {
+        "id": 2,
+        "nome":"Tecnico em Informatica",
+        "nivel":"Tecnico",
+        "loca":"Universidade QI",
+        "tempo":"Finalizado em 2018"
+    }
+]

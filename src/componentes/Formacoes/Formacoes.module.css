@@ -1,0 +1,24 @@
+.formacoes{
+    font-family: var(--fonte-texto);
+}
+.formacoesTitulo{
+    font-size: var(--fonte-destaque);
+    color: var(--cor-2);
+    font-size: 2rem;
+    text-decoration: underline;
+    padding: .5em;
+}
+
+.formacao{
+    padding: 2rem 0;
+}
+.formacaoTitulo{
+    color: var(--cor-2);
+    font-size: 1.5rem;
+    padding: .5em 0;
+}
+.formacaoDescricao{
+    font-size: 1.2rem;
+    padding: 1em 0;
+    font-weight: bold;
+}

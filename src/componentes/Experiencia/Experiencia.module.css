@@ -1,0 +1,28 @@
+.experiencias {
+    font-family: var(--fonte-texto);
+}
+
+.titulo {
+    font-size: var(--fonte-destaque);
+    color: var(--cor-2);
+    font-size: 2rem;
+    text-decoration: underline;
+    padding: .5em;
+}
+
+.funcao {
+    color: var(--cor-2);
+    font-size: 1.5rem;
+    padding: .5em 0;
+
+}
+.tempoElocal{
+    font-size: 1.2rem;
+    padding: 1em 0;
+    font-weight: bold;
+}
+.descricao{
+    text-align: justify;
+    padding-top: 1em;
+    border-top: 1px solid var(--cor-2);
+}

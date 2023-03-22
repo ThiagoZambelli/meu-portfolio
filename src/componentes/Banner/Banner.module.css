@@ -10,14 +10,14 @@
     text-align: center;
 }
 .apresentacao > h1{
-    font-size: 3rem;
+    font-size: var(--fonte-titulo);
     font-family: var(--fonte-destaque);
     padding: .5em 0;
     color: var(--cor-2);
 }
 
 .apresentacao > p{
-    font-size: 1.5rem;
+    font-size: var(--fonte-subtitulo);
     font-family: var(--fonte-texto);
     text-align: justify;
 }
@@ -80,7 +80,7 @@
     .imagens > .minhaFoto {
         position: absolute;
         right: 20vw;
-        bottom: 10vw;
+        bottom: 12vw;
         width: 25vw;    
         border-radius: 15px;
     }

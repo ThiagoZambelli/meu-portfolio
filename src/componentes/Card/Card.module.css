@@ -32,17 +32,19 @@
     flex-direction: column;
     justify-content: space-around;    
     font-weight: bold;
-    font-family: var(--fonte-texto);    
+    font-family: var(--fonte-textoN);    
 }
-.backCabecalho{
+.backCabecalho{    
     display: flex;
     justify-content: space-around;
     align-items: center;
     width: 100%;
     height: 30%;
+    font-size: var(--fonte-subtitulo);
 }
+
 .cardBack p{
-    font-size: 1.2rem;
+    font-size: var(--fonte-textoN);
 }
 .backCabecalho img{
     width: 30%;    

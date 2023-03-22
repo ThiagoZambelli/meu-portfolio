@@ -9,6 +9,7 @@
 }
 .footer img{
     width: 10%;
+    min-width: 100px;
 }
 .footer a{
     text-decoration: none;
@@ -16,7 +17,7 @@
 .footer p{
     color: var(--cor-1);
     text-decoration: underline;
-    font-size: 1rem;
+    font-size: var(--fonte-textoN);
 }
 .footer strong{
     color: var(--cor-2);

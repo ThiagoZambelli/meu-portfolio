@@ -15,7 +15,7 @@
 }
 .tecnologiaBanner h2{
     font-family: var(--fonte-destaque);
-    font-size: 3rem;
+    font-size: var(--fonte-titulo);
     color: var(--cor-4);    
     
 }
@@ -28,12 +28,12 @@
 .tecnologiaTexto h1{
     font-family: var(--fonte-destaque);
     color: var(--cor-2);
-    font-size: 2.3rem;
+    font-size: var(--fonte-titulo);
 }
 
 .tecnologiaTexto h2,
 .tecnologiaTexto h3{
-    font-size: 1.3rem;
+    font-size: var(--fonte-textoN);
     text-align: justify;
 }
 .tecnologiaTexto p,
@@ -45,7 +45,7 @@
 }
 .tecnologiaTexto p{
     text-align: center;
-    font-size: 1rem;
+    font-size: var(--fonte-textoN);
 }
 
 .tecnologiaTexto li{
@@ -74,6 +74,9 @@
 }
 .tecnologiaTexto blockquote a{
     color: var(--cor-3);
+}
+.postagemTecnologia{
+    padding-bottom: 3rem;
 }
 
 @media (max-width: 1000px){

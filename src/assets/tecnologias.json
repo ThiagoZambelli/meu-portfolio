@@ -11,27 +11,27 @@
         "nome":"HTML 5",
         "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg",
         "cor": "#FF946A",
-        "texto": ""
+        "texto": "# HTML (Linguagem de Marcação de HiperTexto) \n\n > Também conhecido como o ‘Esqueleto do Front’\n\n ## O HTML foi (assim como o CSS) o meu primeiro passo no mundo Front-end. Porém, diferente do anterior, meu entendimento dele cresceu exponencialmente com outras tecnologias, como o React, por exemplo, pois conforme eu entendia os mecanismos por trás do React e do JSX, o velho e bom HTML fazia cada vez mais sentido. Alguns dos meus projetos realizados são: \n\n - [Meu teste para criar efeito de Flip](https://github.com/ThiagoZambelli/teste-de-flip) \n\n - [O Projeto realizado na aula de MobileFirst da Alura](https://github.com/ThiagoZambelli/MobileFirst-Alura) \n\n - [A segunda versão do meu projeto pessoal - InstaBook](https://github.com/ThiagoZambelli/InstaBooK__segundaVersao)\n\n - [O Projeto do 7DaysOfCode da Alura](https://github.com/ThiagoZambelli/7DaysOfCode-HTML-CSS)\n\n >Estes são alguns dos meus projetos mas todos os demais podem ser encontrados no meu [GitHub](https://github.com/ThiagoZambelli)"
     },
     {
         "id" : 3,
         "nome":"JavaScript",
         "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
         "cor": "#FFF159",
-        "texto": ""
+        "texto": "# JavaScript \n\n > Este, com toda certeza foi meu maior vilão na introdução ao mundo do React, porém meu maior aliado hoje em dia!\n\n ## O JavaScrip me deu muitas dores de cabeça, principalmente por ter me acostumado muito com C++ na faculdade, e tentar aprender uma linguagem tão distinta foi muito complicado. Mas a cada projeto realizado a beleza do JS ia aparecendo. Hoje consigo ver todo o potencial nessa magnífica e evolutiva linguagem. Alguns dos meus projetos realizados são:\n\n - [Projeto desenvolvido no curso da Alura para aprender a armazenar dados no navegador.](https://github.com/ThiagoZambelli/JavaScript-na-Web-armazenando-dados-no-navegador) \n\n - [Projeto do ‘Numero Secreto’ Desenvolvido no curso da Alura](https://github.com/ThiagoZambelli/Projeto__Numero-Secreto) \n\n - [Minha primeira tentativa de criar algo sozinho!](https://github.com/ThiagoZambelli/Primeiro_prototipo_de_postagem)\n\n - [Um pequeno mergulho nos metodos de Array](https://github.com/ThiagoZambelli/JavaScript-m-todos-de-array)\n\n >Estes são alguns dos meus projetos mas todos os demais podem ser encontrados no meu [GitHub](https://github.com/ThiagoZambelli)"
     },
     {
         "id" : 4,
         "nome":"GitHub",
         "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
         "cor": "#999999",
-        "texto": ""
+        "texto": "# Git/GitHub \n\n > A Magia, por trás de todo programador! Que deleite não ter a necessidade de criar 300 pastas para cada versão !!!\n\n ## Meu primeiro contato com a tecnologia foi durante o início da faculdade e foi terrível. Não havia entendido absolutamente nada na época e jurei que nunca aprenderia a usar a tecnologia.\n\n## Porem eu nao poderia estar mais errado, pois hoje em dia eu utilizo dezenas de vezes por dia, além de que não existe programação cooperativa no mundo moderno sem Git/GitHub.\n\n>Este é o link para o meu GitHub com todos os meus projetos até aqui [GitHub](https://github.com/ThiagoZambelli)"
     },
     {
         "id" : 5,
         "nome":"React",
         "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg",
         "cor": "#C2F4FF",
-        "texto": ""
+        "texto": "# React \n\n >Meu atual foco em aprendizado.\n\n ## Nunca senti tanto prazer em desenvolver até conhecer essa fantástica biblioteca. Além de ser dinâmica e intuitiva, aliar uma base sólida e bem fundamentada de CSS 3, JS e HTML 5 faz a experiência do desenvolvimento ser fluida, precisa e prazerosa. Alguns dos meus projetos realizados são:\n\n - [Meu inicio no mundo do React](https://github.com/ThiagoZambelli/React--desenvolvendo-com-JavaScript) \n\n - [Meu primeiro projeto 100% solo](https://github.com/ThiagoZambelli/Primeiro-Projeto-Solo-React) \n\n - [Meu segundo curso com React estudando Rotas](https://github.com/ThiagoZambelli/router-react)\n\n - [E esta aplicação que estou utilizando como meu Portfólio](https://github.com/ThiagoZambelli/meu-portfolio)\n\n >Estes são alguns dos meus projetos mas todos os demais podem ser encontrados no meu [GitHub](https://github.com/ThiagoZambelli)"
     }
 ]

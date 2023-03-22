@@ -55,3 +55,10 @@
 .cardContainer:hover .cardBack {
     transform: rotatey(0deg);
 }
+.cardContainer:target .cardFront {
+    transform: rotatey(-180deg);
+}
+
+.cardContainer:target .cardBack {
+    transform: rotatey(0deg);
+}

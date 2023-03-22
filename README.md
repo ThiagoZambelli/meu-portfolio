@@ -125,3 +125,18 @@
     <Rodape />
   </main>
 ~~~
+
+
+- ### Captura de parametros da rota atual:
+
+&nbsp;
+
+ > Neste caso usamos um Hook do React chamado `useParams` para capturar os parametros da rota
+
+ &nbsp;
+
+
+~~~JavaScript
+
+      useParams();
+~~~

@@ -1,4 +1,5 @@
 import PaginaPadrao from "componentes/PaginaPadrao";
+import TecnologiaDescricao from "componentes/TecnologiaDescricao";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Nav from "./componentes/Nav";
 import ScrollToTop from './componentes/ScrollToTop'
@@ -14,8 +15,9 @@ function App() {
 
         <Routes>
           <Route path="/" element={<PaginaPadrao />}>
-            <Route path="/" element={<Inicio />} />
-            <Route path="/sobremim" element={<SobreMim />} />
+            <Route index element={<Inicio />} />
+            <Route path="sobremim" element={<SobreMim />} />
+            <Route path="tecnologias/:id" element={<TecnologiaDescricao />} />
           </Route>          
           <Route path="*" element={<div>Pagina não encontrada</div>} />
         </Routes>

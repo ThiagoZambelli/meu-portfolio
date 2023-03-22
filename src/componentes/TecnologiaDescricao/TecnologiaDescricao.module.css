@@ -5,6 +5,7 @@
     padding: 2rem;   
     max-height: 30vh;
     box-sizing: border-box;
+    opacity: 0.5;
 }
 .tecnologiaBanner img{
     max-width: 15%;
@@ -17,4 +18,58 @@
     font-size: 3rem;
     color: var(--cor-4);
     
+}
+.tecnologiaTexto{
+    font-family: var(--fonte-texto);
+    color: var(--cor-1);
+    width: 80%;
+    margin: auto;
+}
+.tecnologiaTexto h1{
+    font-family: var(--fonte-destaque);
+    color: var(--cor-2);
+    font-size: 2.3rem;
+}
+
+.tecnologiaTexto h2,
+.tecnologiaTexto h3{
+    font-size: 1.3rem;
+}
+.tecnologiaTexto p,
+.tecnologiaTexto h1,
+.tecnologiaTexto h2,
+.tecnologiaTexto h3{
+    margin: 2em 0 1em 0;
+}
+.tecnologiaTexto p{
+    text-align: center;
+    font-size: 1rem;
+}
+
+.tecnologiaTexto li{
+    margin-bottom: 1.5em;
+    padding-left: 2em;
+}
+.tecnologiaTexto a{
+    color: var(--cor-1);
+    text-decoration: none;
+    border-bottom: 2px solid var(--cor-2);        
+}
+
+.tecnologiaTexto pre,
+.tecnologiaTexto blockquote {
+    margin-bottom: 1.5rem;
+    padding: .5rem;
+    background-color: #eaeaea;
+    border-radius: 10px;
+    color: var(--cor-3);
+    opacity: 0.8;
+    text-align: center;
+}
+
+.tecnologiaTexto pre {
+    overflow-x: auto;
+}
+.tecnologiaTexto blockquote a{
+    color: var(--cor-3);
 }

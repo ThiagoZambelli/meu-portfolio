@@ -126,17 +126,26 @@
   </main>
 ~~~
 
+&nbsp;
 
 - ### Captura de parametros da rota atual:
 
 &nbsp;
 
  > Neste caso usamos um Hook do React chamado `useParams` para capturar os parametros da rota
+- ``useParams();``
+
+
+ ---
+&nbsp;
+
+- ### Utilização do ReactMarkdown :
+
+&nbsp;
+
+ > Foi utilizado o ReactMarkdown para que houvesse uma converção do formato de marcação markdown para um texto jsx
 
  &nbsp;
-
-
-~~~JavaScript
-
-      useParams();
-~~~
+- Comando para a instalação:
+    - ``npm install react-markdown
+``

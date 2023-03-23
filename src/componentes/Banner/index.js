@@ -10,7 +10,7 @@ export default function Banner() {
                     Olá, Bem-vindo ao meu Portfólio !
                 </h1>
                 <p className={styles.texto}>
-                    Boas vindas ao meu <strong>‘thiago-container’</strong>! Me chamo Thiago Zambelli, Programador Front-end Júnior. Aqui vou mostrar tudo o que sei e o que estou aprendendo, além de deixar conhecimentos para outras pessoas. Espero sinceramente que possa te ajudar e, talves ensinar algo novo :)
+                    Boas vindas ao meu <strong>‘thiago-container’</strong>! Me chamo Thiago Zambelli, Programador Front-end Junior. Aqui vou mostrar tudo o que sei e o que estou aprendendo, além de deixar conhecimentos para outras pessoas. Espero sinceramente que possa te ajudar e, talvez ensinar algo novo :)
                 </p>
             </div>
             <div className={styles.imagens}>

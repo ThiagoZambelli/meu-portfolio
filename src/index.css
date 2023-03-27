@@ -113,6 +113,7 @@ video,
 input,
 textarea,
 select {
+	line-height: 1.5em;
 	background: transparent;
 	border: 0;
 	font-size: 100%;

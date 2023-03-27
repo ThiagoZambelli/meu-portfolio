@@ -12,13 +12,12 @@ function App() {
       <BrowserRouter>
         <ScrollToTop />
         <Nav />
-
         <Routes>
           <Route path="/" element={<PaginaPadrao />}>
             <Route index element={<Inicio />} />
-            <Route path="sobremim" element={<SobreMim />} />
-            <Route path="tecnologias/:id" element={<TecnologiaDescricao />} />
-          </Route>          
+            <Route path="sobremim" element={<SobreMim />} />            
+          </Route>
+          <Route path="tecnologias/:id" element={<TecnologiaDescricao />} />          
           <Route path="*" element={<div>Pagina não encontrada</div>} />
         </Routes>
       </BrowserRouter>

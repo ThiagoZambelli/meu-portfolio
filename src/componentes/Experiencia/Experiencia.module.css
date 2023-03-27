@@ -3,6 +3,7 @@
 }
 
 .titulo {
+    font-family: var(--fonte-destaque);
     font-size: var(--fonte-tituloMenor);
     color: var(--cor-2);    
     text-decoration: underline;

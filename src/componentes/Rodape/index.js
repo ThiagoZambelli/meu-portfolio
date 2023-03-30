@@ -8,7 +8,7 @@ export default function Rodape(){
                 src={miniEu}
                 className={styles.miniEu}
                 alt='Mini Thiago/Polvo'
-            />
+            />           
             <a href="https://github.com/ThiagoZambelli">
                 <p>&#169; Desenvolvido por <strong>Thiago Zambelli</strong></p>
             </a>

@@ -1,0 +1,74 @@
+.tecnologiaContainer{
+    display: flex;
+    padding: 0 1rem 0 0;
+    min-height: 100vh;
+    
+    
+}
+.exemplos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    row-gap: 2rem;
+    margin-top: 3rem;
+}
+
+.tecnologiaAside{
+    min-width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    box-shadow: 0 0 6px var(--cor-2); 
+}
+.descricao{
+    padding: 4rem 2rem;
+    font-family: var(--fonte-texto);
+}
+.descricao h1{
+    padding: 1em;
+    font-family: var(--fonte-destaque);
+    color: var(--cor-2);
+    font-size: var(--fonte-titulo);
+}
+.descricao h2{
+    text-align: justify;
+}
+.descricao h2, .descricao blockquote{    
+    margin: 3em 0;
+}
+.descricao blockquote{
+    text-align: center;
+    font-size: var(--fonte-subtitulo);
+    color: var(--cor-1);
+    background-color: var(--cor-1-opacidade);
+    border-radius: 10px;
+    box-shadow: 0 0 5px var(--cor-3);
+    padding: .5em 1em;    
+}
+.descricao h2{
+    font-size: var(--fonte-subtitulo);
+}
+.final{
+    margin: 2rem 0;    
+}
+
+.final a{
+    color: var(--cor-2);
+}
+@media (max-width: 600px){
+    .tecnologiaAside{
+        min-width: 30%;
+    }
+
+    .descricao h1{
+        font-size: var(--fonte-tituloMenor);
+    }
+    .descricao h2, .descricao blockquote{
+        font-size: var(--fonte-textoN);
+        margin: 3em 0;
+    }
+}
+

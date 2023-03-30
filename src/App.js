@@ -1,5 +1,5 @@
 import PaginaPadrao from "componentes/PaginaPadrao";
-import TecnologiaDescricao from "componentes/TecnologiaDescricao";
+import TecnologiaDescricao from "paginas/TecnologiaDescricao";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Nav from "./componentes/Nav";
 import ScrollToTop from './componentes/ScrollToTop'
@@ -8,7 +8,7 @@ import SobreMim from "./paginas/SobreMim";
 
 function App() {
   return (
-    <main>
+    <main >
       <BrowserRouter>
         <ScrollToTop />
         <Nav />

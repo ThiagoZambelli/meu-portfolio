@@ -20,6 +20,7 @@
     font-size: var(--fonte-subtitulo);
     font-family: var(--fonte-texto);
     text-align: justify;
+    line-height: 1.7em;
 }
 .texto > strong {
     color: var(--cor-2);

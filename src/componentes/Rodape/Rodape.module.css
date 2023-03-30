@@ -22,3 +22,9 @@
 .footer strong{
     color: var(--cor-2);
 }
+
+@media (max-width: 450px){
+    .footer{
+        padding: .2rem;
+    }
+}

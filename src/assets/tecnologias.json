@@ -112,6 +112,10 @@
             "id":5,
             "descricao":"Migrando para TipeScript no React",
             "link":"https://github.com/ThiagoZambelli/react-typescript"
+        },{
+            "id":6,
+            "descricao":"Criando um Projeto do Zero com TypeScript",
+            "link":"https://github.com/ThiagoZambelli/react-arquivos-estaticos.git"
         }
     ],
         

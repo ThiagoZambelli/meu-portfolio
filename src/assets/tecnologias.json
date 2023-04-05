@@ -91,6 +91,7 @@
         "nome":"React",
         "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg",
         "cor": "#C2F4FF",
+        "texto": "# React \n\n >Meu atual foco em aprendizado.\n\n ## Nunca senti tanto prazer em desenvolver até conhecer essa fantástica biblioteca. Além de ser dinâmica e intuitiva, aliar uma base sólida e bem fundamentada de CSS 3, JS e HTML 5 faz a experiência do desenvolvimento ser fluida, precisa e prazerosa. Alguns dos meus projetos realizados são:",
         "final": ">Estes são alguns dos meus projetos mas todos os demais podem ser encontrados no meu [GitHub](https://github.com/ThiagoZambelli)",
         "projetos": [{
             "id":1,
@@ -117,8 +118,27 @@
             "descricao":"Criando um Projeto do Zero com TypeScript",
             "link":"https://github.com/ThiagoZambelli/react-arquivos-estaticos.git"
         }
-    ],
+    ]        
         
-        "texto": "# React \n\n >Meu atual foco em aprendizado.\n\n ## Nunca senti tanto prazer em desenvolver até conhecer essa fantástica biblioteca. Além de ser dinâmica e intuitiva, aliar uma base sólida e bem fundamentada de CSS 3, JS e HTML 5 faz a experiência do desenvolvimento ser fluida, precisa e prazerosa. Alguns dos meus projetos realizados são:"
+    },
+    {
+        "id" : 6,
+        "nome":"TypeScript",
+        "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+        "cor": "#77D9FD",
+        "texto": "# TypeScript \n\n > Como alguem programava sem isso?.\n\n ## Como é bom e confortavel poder tipar os componentes, traz muito mais segurança. Tem poucos projetos pois estou no inicio. Alguns dos meus projetos realizados são:",
+        "final": ">Estes são alguns dos meus projetos mas todos os demais podem ser encontrados no meu [GitHub](https://github.com/ThiagoZambelli)",
+        "projetos": [
+           {
+            "id":1,
+            "descricao":"Migrando para TipeScript no React",
+            "link":"https://github.com/ThiagoZambelli/react-typescript"
+        },{
+            "id":2,
+            "descricao":"Criando um Projeto do Zero com TypeScript",
+            "link":"https://github.com/ThiagoZambelli/react-arquivos-estaticos.git"
+        }
+    ]        
+        
     }
 ]

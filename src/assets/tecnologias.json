@@ -117,6 +117,10 @@
             "id":6,
             "descricao":"Criando um Projeto do Zero com TypeScript",
             "link":"https://github.com/ThiagoZambelli/react-arquivos-estaticos.git"
+        },{
+            "id":7,
+            "descricao":"Re-fatorando um projeto em SPA de React/TypeScript",
+            "link":"https://github.com/ThiagoZambelli/react-typescript-rotas.git"
         }
     ]        
         
@@ -137,8 +141,12 @@
             "id":2,
             "descricao":"Criando um Projeto do Zero com TypeScript",
             "link":"https://github.com/ThiagoZambelli/react-arquivos-estaticos.git"
+        },{
+            "id":3,
+            "descricao":"Re-fatorando um projeto em SPA de React/TypeScript",
+            "link":"https://github.com/ThiagoZambelli/react-typescript-rotas.git"
         }
     ]        
-        
+    
     }
 ]

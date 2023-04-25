@@ -73,6 +73,10 @@
             "id":4,
             "descricao":"Um pequeno mergulho nos metodos de Array",
             "link":"https://github.com/ThiagoZambelli/JavaScript-m-todos-de-array"
+        },{
+            "id":5,
+            "descricao":"Estudo sobre o funcionamento de Algoritimos em JS",
+            "link":"https://github.com/ThiagoZambelli/algoritmos-com-javascript-ordenacao-e-busca"
         }
     ],
         "texto": "# JavaScript \n\n > Este, com toda certeza foi meu maior vilão na introdução ao mundo do React, porém meu maior aliado hoje em dia!\n\n ## O JavaScrip me deu muitas dores de cabeça, principalmente por ter me acostumado muito com C++ na faculdade, e tentar aprender uma linguagem tão distinta foi muito complicado. Mas a cada projeto realizado a beleza do JS ia aparecendo. Hoje consigo ver todo o potencial nessa magnífica e evolutiva linguagem. Alguns dos meus projetos realizados são:"

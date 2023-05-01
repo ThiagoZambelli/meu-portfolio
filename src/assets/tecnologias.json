@@ -129,6 +129,10 @@
             "id":8,
             "descricao":"Projeto de integração com API",
             "link":"https://github.com/ThiagoZambelli/integrando-seu-projeto-react-com-apis.git"
+        },{
+            "id":9,
+            "descricao":"Primeiro projetos com Teste. 100% TDD",
+            "link":"https://react-testando-os-seus-componentes.vercel.app/"
         }
     ]        
         
@@ -157,6 +161,10 @@
             "id":4,
             "descricao":"Projeto de integração com API",
             "link":"https://github.com/ThiagoZambelli/integrando-seu-projeto-react-com-apis.git"
+        },{
+            "id":5,
+            "descricao":"Primeiro projetos com Teste. 100% TDD",
+            "link":"https://react-testando-os-seus-componentes.vercel.app/"
         }
     ]        
     

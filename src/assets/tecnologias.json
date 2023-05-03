@@ -133,6 +133,10 @@
             "id":9,
             "descricao":"Primeiro projetos com Teste. 100% TDD",
             "link":"https://react-testando-os-seus-componentes.vercel.app/"
+        },{
+            "id":10,
+            "descricao":"Sorteador para casais",
+            "link":"https://sorteador-para-casais.vercel.app/"
         }
     ]        
         
@@ -165,6 +169,10 @@
             "id":5,
             "descricao":"Primeiro projetos com Teste. 100% TDD",
             "link":"https://react-testando-os-seus-componentes.vercel.app/"
+        },{
+            "id":6,
+            "descricao":"Sorteador para casais",
+            "link":"https://sorteador-para-casais.vercel.app/"
         }
     ]        
     

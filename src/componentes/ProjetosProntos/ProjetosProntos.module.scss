@@ -1,0 +1,47 @@
+.projetosProntos {
+    display: flex;
+    flex-direction: column;
+    padding: 4rem 0;
+    width: 90%;
+    margin: 0 auto;
+    row-gap: 2rem;
+
+    h2 {
+        font-family: var(--fonte-destaque);
+        font-size: var(--fonte-titulo);
+        text-align: center;
+        margin: 1em 0;
+        text-decoration: underline;
+        color: var(--cor-2);
+    }
+
+    &__container {
+        display: flex;
+        align-items: center;
+        background-color: var(--cor-2);
+        padding: 2rem;
+        border-radius: 1em;
+        justify-content: space-between;
+        max-width: 600px;
+        margin: 0 auto;
+        text-decoration: none;
+        box-shadow: 0 0 10px var(--cor-3);
+        transition: .5s;
+
+        &:hover {
+            transform: scale(1.02);
+        }
+
+        img {
+            width: 250px;
+            border-radius: 1em;
+        }
+
+        h3 {
+            font-size: 2rem;
+            color: var(--cor-4);
+            max-width: 50%;
+        }
+
+    }
+}

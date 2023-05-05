@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200;300;400;500;600;700;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&display=swap');
 
+* {
+	box-sizing: border-box;
+}
 
 :root {
 	--fonte-destaque: 'Stick No Bills', sans-serif;
@@ -10,7 +13,7 @@
 	--nav-bg: linear-gradient(209deg, rgba(220, 215, 201, 1) 0%, rgba(162, 123, 92, 1) 63%, rgba(220, 215, 201, 1) 100%);
 
 	--cor-1: #DCD7C9;
-		--cor-1-opacidade: rgba(220, 215, 201, 0.2);
+	--cor-1-opacidade: rgba(220, 215, 201, 0.2);
 	--cor-2: #A27B5C;
 	--cor-3: #3F4E4F;
 	--cor-4: #2C3639;
@@ -146,7 +149,7 @@ main {
 	background: var(--gradiente-bg);
 	color: var(--cor-1);
 	min-height: 100vh;
-	
+
 }
 
 abbr[title],

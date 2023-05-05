@@ -5,6 +5,24 @@
 	box-sizing: border-box;
 }
 
+body::-webkit-scrollbar {
+    width: 8px;
+}
+
+body::-webkit-scrollbar-track {
+    background: #DCD7C9;
+    /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #2C3639;
+    /* color of the scroll thumb */
+    border-radius: 20px;
+    /* roundness of the scroll thumb */
+    border: 1px solid #2C3639;
+    /* creates padding around scroll thumb */
+}
+
 :root {
 	--fonte-destaque: 'Stick No Bills', sans-serif;
 	--fonte-texto: 'Laila', sans-serif;

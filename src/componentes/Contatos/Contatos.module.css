@@ -49,9 +49,7 @@
 .contatos .link:hover{
     transform: scale(1.03);
 }
-.link img{
-    max-width: 35px;    
-}
+
 
 @media (max-width: 640px){
     .contatos .link{

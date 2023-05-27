@@ -1,5 +1,9 @@
 [
     {
+        "projeto": "Minha Forja de Lendas",
+        "deploy": "https://novo-projeto-solo-react-ts.vercel.app/",
+        "id": 7
+    },{
         "projeto": "Meu Banco de dados pessoais",
         "deploy": "https://db-zambelli-apps.vercel.app/",
         "id": 1

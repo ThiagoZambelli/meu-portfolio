@@ -1,18 +1,25 @@
-.curriculo{
+.curriculo{    
+    text-decoration: none; 
+    transition: .5s;    
+    
+}
+.curriculo section{
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    column-gap: 1em;
+    padding: 1em 0;    
+    color: var(--cor-4);
+    font-size: var(--fonte-subtitulo);
+    padding: .5em 0;
+    text-decoration: none;
     backdrop-filter: blur(15px);
     background: rgba(255, 255, 255, 0.05);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.5);
     -webkit-backdrop-filter: blur(15px);
     border-radius: 15px;
-    padding: .5em 1em;
-    color: var(--cor-4);
-    text-decoration: none;
-    font-size: var(--fonte-subtitulo);
-    transition: .5s;
-    
+    padding: .5em 1em;    
+
 }
 .curriculo:hover{
     transform: scale(1.03);

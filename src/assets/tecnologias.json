@@ -1,97 +1,112 @@
 [
     {
-        "id" : 1,
-        "nome":"CSS 3",
+        "id": 1,
+        "nome": "CSS 3",
         "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg",
         "cor": "#77D9FD",
         "final": ">Estes são alguns dos meus projetos mas todos os demais podem ser encontrados no meu [GitHub](https://github.com/ThiagoZambelli)",
-        "projetos": [{
-            "id":1,
-            "descricao":"Meu teste para criar efeito de Flip",
-            "link":"https://github.com/ThiagoZambelli/teste-de-flip"
-        },{
-            "id":2,
-            "descricao":"O Projeto realizado na aula de MobileFirst da Alura",
-            "link":"https://github.com/ThiagoZambelli/MobileFirst-Alura"
-        },{
-            "id":3,
-            "descricao":"A segunda versão do meu projeto pessoal - InstaBook",
-            "link":"https://github.com/ThiagoZambelli/InstaBooK__segundaVersao"
-        },{
-            "id":4,
-            "descricao":"O Projeto do 7DaysOfCode da Alura",
-            "link":"https://github.com/ThiagoZambelli/7DaysOfCode-HTML-CSS"
-        }
-    ],
+        "projetos": [
+            {
+                "id": 1,
+                "descricao": "Meu teste para criar efeito de Flip",
+                "link": "https://github.com/ThiagoZambelli/teste-de-flip"
+            },
+            {
+                "id": 2,
+                "descricao": "O Projeto realizado na aula de MobileFirst da Alura",
+                "link": "https://github.com/ThiagoZambelli/MobileFirst-Alura"
+            },
+            {
+                "id": 3,
+                "descricao": "A segunda versão do meu projeto pessoal - InstaBook",
+                "link": "https://github.com/ThiagoZambelli/InstaBooK__segundaVersao"
+            },
+            {
+                "id": 4,
+                "descricao": "O Projeto do 7DaysOfCode da Alura",
+                "link": "https://github.com/ThiagoZambelli/7DaysOfCode-HTML-CSS"
+            }
+        ],
         "texto": "# CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata) \n\n > Atualmente minha maior paixão\n\n ## Com o CSS 3 (além do HTML 5), dei meus primeiros passos em direção ao mundo do Front-end e talvez tenha sido nele meus maiores avaços. Alguns dos meus projetos realizados são:"
     },
     {
-        "id" : 2,
-        "nome":"HTML 5",
+        "id": 2,
+        "nome": "HTML 5",
         "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg",
         "cor": "#FF946A",
         "final": ">Estes são alguns dos meus projetos mas todos os demais podem ser encontrados no meu [GitHub](https://github.com/ThiagoZambelli)",
-        "projetos": [{
-            "id":1,
-            "descricao":"Meu teste para criar efeito de Flip",
-            "link":"https://github.com/ThiagoZambelli/teste-de-flip"
-        },{
-            "id":2,
-            "descricao":"O Projeto realizado na aula de MobileFirst da Alura",
-            "link":"https://github.com/ThiagoZambelli/MobileFirst-Alura"
-        },{
-            "id":3,
-            "descricao":"A segunda versão do meu projeto pessoal - InstaBook",
-            "link":"https://github.com/ThiagoZambelli/InstaBooK__segundaVersao"
-        },{
-            "id":4,
-            "descricao":"O Projeto do 7DaysOfCode da Alura",
-            "link":"https://github.com/ThiagoZambelli/7DaysOfCode-HTML-CSS"
-        }
-    ],
+        "projetos": [
+            {
+                "id": 1,
+                "descricao": "Meu teste para criar efeito de Flip",
+                "link": "https://github.com/ThiagoZambelli/teste-de-flip"
+            },
+            {
+                "id": 2,
+                "descricao": "O Projeto realizado na aula de MobileFirst da Alura",
+                "link": "https://github.com/ThiagoZambelli/MobileFirst-Alura"
+            },
+            {
+                "id": 3,
+                "descricao": "A segunda versão do meu projeto pessoal - InstaBook",
+                "link": "https://github.com/ThiagoZambelli/InstaBooK__segundaVersao"
+            },
+            {
+                "id": 4,
+                "descricao": "O Projeto do 7DaysOfCode da Alura",
+                "link": "https://github.com/ThiagoZambelli/7DaysOfCode-HTML-CSS"
+            }
+        ],
         "texto": "# HTML (Linguagem de Marcação de HiperTexto) \n\n > Também conhecido como o ‘Esqueleto do Front’\n\n ## O HTML foi (assim como o CSS) o meu primeiro passo no mundo Front-end. Porém, diferente do anterior, meu entendimento dele cresceu exponencialmente com outras tecnologias, como o React, por exemplo, pois conforme eu entendia os mecanismos por trás do React e do JSX, o velho e bom HTML fazia cada vez mais sentido. Alguns dos meus projetos realizados são:"
     },
     {
-        "id" : 3,
-        "nome":"JavaScript",
+        "id": 3,
+        "nome": "JavaScript",
         "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
         "cor": "#FFF159",
         "final": ">Estes são alguns dos meus projetos mas todos os demais podem ser encontrados no meu [GitHub](https://github.com/ThiagoZambelli)",
-        "projetos": [{
-            "id":1,
-            "descricao":"Projeto desenvolvido no curso da Alura para aprender a armazenar dados no navegador",
-            "link":"https://github.com/ThiagoZambelli/JavaScript-na-Web-armazenando-dados-no-navegador"
-        },{
-            "id":2,
-            "descricao":"Projeto do ‘Numero Secreto’ Desenvolvido no curso da Alura",
-            "link":"https://github.com/ThiagoZambelli/Projeto__Numero-Secreto"
-        },{
-            "id":3,
-            "descricao":"Minha primeira tentativa de criar algo sozinho!",
-            "link":"https://github.com/ThiagoZambelli/Primeiro_prototipo_de_postagem"
-        },{
-            "id":4,
-            "descricao":"Um pequeno mergulho nos metodos de Array",
-            "link":"https://github.com/ThiagoZambelli/JavaScript-m-todos-de-array"
-        },{
-            "id":5,
-            "descricao":"Estudo sobre o funcionamento de Algoritimos em JS",
-            "link":"https://github.com/ThiagoZambelli/algoritmos-com-javascript-ordenacao-e-busca"
-        },{
-            "id":6,
-            "descricao":"Minha primeira biblioteca com Node.JS",
-            "link":"https://github.com/ThiagoZambelli/node.js-criando-sua-primeira-biblioteca"
-        },{
-            "id":7,
-            "descricao":"Inicio da POO com JS",
-            "link":"https://github.com/ThiagoZambelli/javascript-programacao-orientada-a-objetos"
-        }
-    ],
+        "projetos": [
+            {
+                "id": 1,
+                "descricao": "Projeto desenvolvido no curso da Alura para aprender a armazenar dados no navegador",
+                "link": "https://github.com/ThiagoZambelli/JavaScript-na-Web-armazenando-dados-no-navegador"
+            },
+            {
+                "id": 2,
+                "descricao": "Projeto do ‘Numero Secreto’ Desenvolvido no curso da Alura",
+                "link": "https://github.com/ThiagoZambelli/Projeto__Numero-Secreto"
+            },
+            {
+                "id": 3,
+                "descricao": "Minha primeira tentativa de criar algo sozinho!",
+                "link": "https://github.com/ThiagoZambelli/Primeiro_prototipo_de_postagem"
+            },
+            {
+                "id": 4,
+                "descricao": "Um pequeno mergulho nos metodos de Array",
+                "link": "https://github.com/ThiagoZambelli/JavaScript-m-todos-de-array"
+            },
+            {
+                "id": 5,
+                "descricao": "Estudo sobre o funcionamento de Algoritimos em JS",
+                "link": "https://github.com/ThiagoZambelli/algoritmos-com-javascript-ordenacao-e-busca"
+            },
+            {
+                "id": 6,
+                "descricao": "Minha primeira biblioteca com Node.JS",
+                "link": "https://github.com/ThiagoZambelli/node.js-criando-sua-primeira-biblioteca"
+            },
+            {
+                "id": 7,
+                "descricao": "Inicio da POO com JS",
+                "link": "https://github.com/ThiagoZambelli/javascript-programacao-orientada-a-objetos"
+            }
+        ],
         "texto": "# JavaScript \n\n > Este, com toda certeza foi meu maior vilão na introdução ao mundo do React, porém meu maior aliado hoje em dia!\n\n ## O JavaScrip me deu muitas dores de cabeça, principalmente por ter me acostumado muito com C++ na faculdade, e tentar aprender uma linguagem tão distinta foi muito complicado. Mas a cada projeto realizado a beleza do JS ia aparecendo. Hoje consigo ver todo o potencial nessa magnífica e evolutiva linguagem. Alguns dos meus projetos realizados são:"
     },
     {
-        "id" : 4,
-        "nome":"GitHub",
+        "id": 4,
+        "nome": "GitHub",
         "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
         "cor": "#999999",
         "final": ">Estes são alguns dos meus projetos mas todos os demais podem ser encontrados no meu [GitHub](https://github.com/ThiagoZambelli)",
@@ -99,90 +114,112 @@
         "texto": "# Git/GitHub \n\n > A Magia, por trás de todo programador! Que deleite não ter a necessidade de criar 300 pastas para cada versão !!!\n\n ## Meu primeiro contato com a tecnologia foi durante o início da faculdade e foi terrível. Não havia entendido absolutamente nada na época e jurei que nunca aprenderia a usar a tecnologia.\n\n## Porem eu nao poderia estar mais errado, pois hoje em dia eu utilizo dezenas de vezes por dia, além de que não existe programação cooperativa no mundo moderno sem Git/GitHub."
     },
     {
-        "id" : 5,
-        "nome":"React",
+        "id": 5,
+        "nome": "React",
         "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg",
         "cor": "#C2F4FF",
         "texto": "# React \n\n >Meu atual foco em aprendizado.\n\n ## Nunca senti tanto prazer em desenvolver até conhecer essa fantástica biblioteca. Além de ser dinâmica e intuitiva, aliar uma base sólida e bem fundamentada de CSS 3, JS e HTML 5 faz a experiência do desenvolvimento ser fluida, precisa e prazerosa. Alguns dos meus projetos realizados são:",
         "final": ">Estes são alguns dos meus projetos mas todos os demais podem ser encontrados no meu [GitHub](https://github.com/ThiagoZambelli)",
-        "projetos": [{
-            "id":1,
-            "descricao":"Meu inicio no mundo do React",
-            "link":"https://github.com/ThiagoZambelli/React--desenvolvendo-com-JavaScript"
-        },{
-            "id":2,
-            "descricao":"Meu primeiro projeto 100% solo",
-            "link":"https://github.com/ThiagoZambelli/Primeiro-Projeto-Solo-React"
-        },{
-            "id":3,
-            "descricao":"Meu segundo curso com React estudando Rotas",
-            "link":"https://github.com/ThiagoZambelli/router-react"
-        },{
-            "id":4,
-            "descricao":"Meu terceiro projeto com React - Praticando com o curso da Alura",
-            "link":"https://github.com/ThiagoZambelli/praticando-react"
-        },{
-            "id":5,
-            "descricao":"Migrando para TipeScript no React",
-            "link":"https://github.com/ThiagoZambelli/react-typescript"
-        },{
-            "id":6,
-            "descricao":"Criando um Projeto do Zero com TypeScript",
-            "link":"https://github.com/ThiagoZambelli/react-arquivos-estaticos.git"
-        },{
-            "id":7,
-            "descricao":"Re-fatorando um projeto em SPA de React/TypeScript",
-            "link":"https://github.com/ThiagoZambelli/react-typescript-rotas.git"
-        },{
-            "id":8,
-            "descricao":"Projeto de integração com API",
-            "link":"https://github.com/ThiagoZambelli/integrando-seu-projeto-react-com-apis.git"
-        },{
-            "id":9,
-            "descricao":"Primeiro projetos com Teste. 100% TDD",
-            "link":"https://react-testando-os-seus-componentes.vercel.app/"
-        },{
-            "id":10,
-            "descricao":"Sorteador para casais",
-            "link":"https://sorteador-para-casais.vercel.app/"
-        }
-    ]        
-        
+        "projetos": [
+            {
+                "id": 11,
+                "descricao": "MInha Forja de Lendas",
+                "link": "https://github.com/ThiagoZambelli/novo-projeto-solo-react-ts"
+            },
+            {
+                "id": 1,
+                "descricao": "Meu inicio no mundo do React",
+                "link": "https://github.com/ThiagoZambelli/React--desenvolvendo-com-JavaScript"
+            },
+            {
+                "id": 2,
+                "descricao": "Meu primeiro projeto 100% solo",
+                "link": "https://github.com/ThiagoZambelli/Primeiro-Projeto-Solo-React"
+            },
+            {
+                "id": 3,
+                "descricao": "Meu segundo curso com React estudando Rotas",
+                "link": "https://github.com/ThiagoZambelli/router-react"
+            },
+            {
+                "id": 4,
+                "descricao": "Meu terceiro projeto com React - Praticando com o curso da Alura",
+                "link": "https://github.com/ThiagoZambelli/praticando-react"
+            },
+            {
+                "id": 5,
+                "descricao": "Migrando para TipeScript no React",
+                "link": "https://github.com/ThiagoZambelli/react-typescript"
+            },
+            {
+                "id": 6,
+                "descricao": "Criando um Projeto do Zero com TypeScript",
+                "link": "https://github.com/ThiagoZambelli/react-arquivos-estaticos.git"
+            },
+            {
+                "id": 7,
+                "descricao": "Re-fatorando um projeto em SPA de React/TypeScript",
+                "link": "https://github.com/ThiagoZambelli/react-typescript-rotas.git"
+            },
+            {
+                "id": 8,
+                "descricao": "Projeto de integração com API",
+                "link": "https://github.com/ThiagoZambelli/integrando-seu-projeto-react-com-apis.git"
+            },
+            {
+                "id": 9,
+                "descricao": "Primeiro projetos com Teste. 100% TDD",
+                "link": "https://react-testando-os-seus-componentes.vercel.app/"
+            },
+            {
+                "id": 10,
+                "descricao": "Sorteador para casais",
+                "link": "https://sorteador-para-casais.vercel.app/"
+            }
+        ]
     },
     {
-        "id" : 6,
-        "nome":"TypeScript",
+        "id": 6,
+        "nome": "TypeScript",
         "imagem": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
         "cor": "#77D9FD",
         "texto": "# TypeScript \n\n > Como alguem programava sem isso?.\n\n ## Como é bom e confortavel poder tipar os componentes, traz muito mais segurança. Tem poucos projetos pois estou no inicio. Alguns dos meus projetos realizados são:",
         "final": ">Estes são alguns dos meus projetos mas todos os demais podem ser encontrados no meu [GitHub](https://github.com/ThiagoZambelli)",
         "projetos": [
-           {
-            "id":1,
-            "descricao":"Migrando para TipeScript no React",
-            "link":"https://github.com/ThiagoZambelli/react-typescript"
-        },{
-            "id":2,
-            "descricao":"Criando um Projeto do Zero com TypeScript",
-            "link":"https://github.com/ThiagoZambelli/react-arquivos-estaticos.git"
-        },{
-            "id":3,
-            "descricao":"Re-fatorando um projeto em SPA de React/TypeScript",
-            "link":"https://github.com/ThiagoZambelli/react-typescript-rotas.git"
-        },{
-            "id":4,
-            "descricao":"Projeto de integração com API",
-            "link":"https://github.com/ThiagoZambelli/integrando-seu-projeto-react-com-apis.git"
-        },{
-            "id":5,
-            "descricao":"Primeiro projetos com Teste. 100% TDD",
-            "link":"https://react-testando-os-seus-componentes.vercel.app/"
-        },{
-            "id":6,
-            "descricao":"Sorteador para casais",
-            "link":"https://sorteador-para-casais.vercel.app/"
-        }
-    ]        
-    
+            {
+                "id": 7,
+                "descricao": "MInha Forja de Lendas",
+                "link": "https://github.com/ThiagoZambelli/novo-projeto-solo-react-ts"
+            },{
+                "id": 1,
+                "descricao": "Migrando para TipeScript no React",
+                "link": "https://github.com/ThiagoZambelli/react-typescript"
+            },
+            {
+                "id": 2,
+                "descricao": "Criando um Projeto do Zero com TypeScript",
+                "link": "https://github.com/ThiagoZambelli/react-arquivos-estaticos.git"
+            },
+            {
+                "id": 3,
+                "descricao": "Re-fatorando um projeto em SPA de React/TypeScript",
+                "link": "https://github.com/ThiagoZambelli/react-typescript-rotas.git"
+            },
+            {
+                "id": 4,
+                "descricao": "Projeto de integração com API",
+                "link": "https://github.com/ThiagoZambelli/integrando-seu-projeto-react-com-apis.git"
+            },
+            {
+                "id": 5,
+                "descricao": "Primeiro projetos com Teste. 100% TDD",
+                "link": "https://react-testando-os-seus-componentes.vercel.app/"
+            },
+            {
+                "id": 6,
+                "descricao": "Sorteador para casais",
+                "link": "https://sorteador-para-casais.vercel.app/"
+            }
+        ]
     }
 ]
